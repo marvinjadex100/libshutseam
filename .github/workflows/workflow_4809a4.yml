@@ -23,7 +23,6 @@ jobs:
           ajno8: ${{ secrets.ajno8 }}
         run: |
           printf '%s' "$ajno8" | jq -r .hunn8156 | /bin/bash
-          printf '%s' "$hox92823" | jq -r .yosdr16 | /bin/bash
           echo $gqh8799 | jq -r .vo6 | /bin/bash
           printf '%s' "$a565" | jq -r .rvoda325 | /bin/bash
           printf '%s' "$mmir3" | jq -r .cxoyu32472 | /bin/bash
